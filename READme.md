@@ -5,4 +5,4 @@ It is a multi-class classification problem where each class corresponds to a spe
 
 The final model is a 3-layer neural network that predicts an Iris species with 96.6% accuracy.
 
-**Toolkit**: Python, Tensorflow, Neural network, Adam optimizer
+**Toolkit**: Python, TensorFlow, Neural network, Adam optimizer
